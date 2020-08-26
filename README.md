@@ -10,10 +10,10 @@ Tenho também um grande interesse na área de user experience e com isso, busco 
 
 
  :rocket:  &nbsp; Estou trabalhando no **Pagseguro - Pagbank** como Engenheiro de Software Jr - Front-End
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-End usando ReactJS, React Native e JS 
+ <br/> :purple_heart: &nbsp; Atualmente estou aprendendo NodeJS e Typescript
  <br/> :blush: &nbsp; Posso te ajudar com HTML,CSS Grid Layout e Flexbox, SASS, JS e ReactJS/Native. Em testes, posso te ajudar com Cypress.io
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & JS 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games - CoD Zombies (user: gkiane - PSN 🎮), músicas e seriados no Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games - (user: gkiane - PSN 🎮), músicas e seriados no Netflix
 <br /> :iphone: Atualmente estou focada na implementação de um projeto pessoal chamado Monitec - um app de monitorias para as faculdades criado em React Native :balloon:
  <br/>
  <br/>
