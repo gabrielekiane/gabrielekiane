@@ -3,16 +3,15 @@
 
 <p align="center"><img width="60%" alt="Gabriele Kiane" src="https://cdn.dribbble.com/users/94324/screenshots/3179847/maytheforce_dribbble.jpg"/></p>
 
-<p><samp>Olá, meu nome é Gabriele Kiane e tenho 22 anos.
-Sou formada em Gestão da Tecnologia da Informação e estou focada em ReactJS, React Native e JavaScript. 
-Tenho também um grande interesse na área de user experience e com isso, busco sempre aprender coisas novas e que farão a diferença na interação do usuário.  👩‍💻</p>
+<p><samp>Hi there, my name is Gabriele Kiane and I'm 22yo.
+I am graduated in IT management, focused on front end and with great interest in the User Expercience area. I'm always seeking to learn new things that will make a difference in the user's interaction.  👩‍💻</p>
 
 <p><samp>
- :rocket:  &nbsp; Estou trabalhando no <b>Pagseguro - Pagbank</b> como Engenheiro de Software Jr;
- <br/> :purple_heart: &nbsp; Atualmente estou aprendendo NodeJS e Typescript;
- <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS Grid Layout e Flexbox, SASS, JS e ReactJS/Native. Em testes, posso te ajudar com Cypress.io;
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games - (user: gkiane - PSN 🎮), músicas e seriados no Netflix
- <br /> :iphone: Atualmente estou focada na implementação de um projeto pessoal chamado Monitec - um app de monitorias para as faculdades criado em React Native :balloon:
+ :rocket:  &nbsp; I'm currently working at <b>Pagseguro - Pagbank</b> as a Software Engineer;
+ <br/> :purple_heart: &nbsp; I'm learning NodeJS e Typescript;
+ <br/> :blush: &nbsp; I can help you with HTML, CSS Grid Layout e Flexbox, SASS, JS and ReactJS/Native. In tests, I can help you with Cypress.io;
+ <br/> 💬  &nbsp; About me: I like technologies, games - (user: gkiane - PSN 🎮), songs and watch series on Netflix;
+ <br /> :iphone: I'm currently focused on implementing a personal project called Monitec - a tutoring app for colleges created in React Native :balloon:
  </p>
  <br/>
 
@@ -32,7 +31,7 @@ Tenho também um grande interesse na área de user experience e com isso, busco 
 
 <br/>
 <br/>
-<b> :email: &nbsp; Entre em contato comigo:</b> <br/>
+<b> :email: &nbsp; Contact me:</b> <br/>
  
 [![Linkedin Badge](https://img.shields.io/badge/-GabrieleKiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielekiane/)](https://www.linkedin.com/in/gabrielekiane/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielekiane.bsm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielekiane.bsm@gmail.com)](mailto:gabrielekiane.bsm@gmail.com)
