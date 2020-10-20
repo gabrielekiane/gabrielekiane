@@ -8,7 +8,7 @@ Sou formada em Gestão da Tecnologia da Informação e estou focada em ReactJS, 
 Tenho também um grande interesse na área de user experience e com isso, busco sempre aprender coisas novas e que farão a diferença na interação do usuário.  👩‍💻</p>
 
 <p><samp>
- :rocket:  &nbsp; Estou trabalhando no **Pagseguro - Pagbank** como Engenheiro de Software Jr;
+ :rocket:  &nbsp; Estou trabalhando no <b>Pagseguro - Pagbank</b> como Engenheiro de Software Jr;
  <br/> :purple_heart: &nbsp; Atualmente estou aprendendo NodeJS e Typescript;
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS Grid Layout e Flexbox, SASS, JS e ReactJS/Native. Em testes, posso te ajudar com Cypress.io;
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games - (user: gkiane - PSN 🎮), músicas e seriados no Netflix
