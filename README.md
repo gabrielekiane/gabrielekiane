@@ -35,6 +35,5 @@ Tenho também um grande interesse na área de user experience e com isso, busco 
 <b> :email: &nbsp; Entre em contato comigo:</b> <br/>
  
 [![Linkedin Badge](https://img.shields.io/badge/-GabrieleKiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielekiane/)](https://www.linkedin.com/in/gabrielekiane/)
-<br />
 [![Gmail Badge](https://img.shields.io/badge/-gabrielekiane.bsm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielekiane.bsm@gmail.com)](mailto:gabrielekiane.bsm@gmail.com)
 
