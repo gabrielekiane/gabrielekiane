@@ -1,14 +1,6 @@
 
 # <h2 align="center">Gabriele Kiane <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br/>
-
 <p align="center"><img width="60%" alt="Gabriele Kiane" src="https://cdn.dribbble.com/users/94324/screenshots/3179847/maytheforce_dribbble.jpg"/></p>
 
 <p><samp>Olá, meu nome é Gabriele Kiane e tenho 22 anos.
@@ -28,9 +20,21 @@ Tenho também um grande interesse na área de user experience e com isso, busco 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielekiane&layout=compact&theme=buefy" />
 </a>
+<br/>
+<br/>
 
- <br/>
- <b><samp> :email: &nbsp; Entre em contato comigo:</b> <br/>
- [![Linkedin Badge](https://img.shields.io/badge/-GabrieleKiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielekiane/)](https://www.linkedin.com/in/gabrielekiane/) 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+
+<br/>
+<br/>
+<b> :email: &nbsp; Entre em contato comigo:</b> <br/>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-GabrieleKiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielekiane/)](https://www.linkedin.com/in/gabrielekiane/)
+<br />
 [![Gmail Badge](https://img.shields.io/badge/-gabrielekiane.bsm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielekiane.bsm@gmail.com)](mailto:gabrielekiane.bsm@gmail.com)
 
