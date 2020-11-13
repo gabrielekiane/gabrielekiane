@@ -12,7 +12,7 @@ I am graduated in IT management, focused on front end and with great interest in
  <br/> :purple_heart: &nbsp; I'm learning NodeJS e Typescript;
  <br/> :blush: &nbsp; I can help you with HTML, CSS Grid Layout e Flexbox, SASS, JS and ReactJS/Native. In tests, I can help you with Cypress.io;
  <br/> 💬  &nbsp; About me: I like technologies, games - (user: gkiane - PSN 🎮), songs and watch series on Netflix;
- <br /> :iphone: I'm currently focused on implementing a personal project called Monitec - a tutoring app for colleges created in React Native.
+ <br /> :iphone: &nbsp; I'm currently focused on implementing a personal project called Monitec - a tutoring app for colleges created in React Native.
  </p>
  <br/>
 
