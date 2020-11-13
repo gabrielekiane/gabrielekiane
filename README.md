@@ -8,7 +8,7 @@ I am graduated in IT management, focused on front end and with great interest in
 
 <p><samp>
  :rocket:  &nbsp; I'm currently working at <b>Pagseguro - Pagbank</b> as a Software Engineer;
- <br/> :woman_astronaut: I am part of the <strong>Rocketseat</strong> mentor training program called <strong>Space Squad</strong>;
+ <br/> :woman_astronaut: &nbsp; I am part of the <strong>Rocketseat</strong> mentor training program called <strong>Space Squad</strong>;
  <br/> :purple_heart: &nbsp; I'm learning NodeJS e Typescript;
  <br/> :blush: &nbsp; I can help you with HTML, CSS Grid Layout e Flexbox, SASS, JS and ReactJS/Native. In tests, I can help you with Cypress.io;
  <br/> 💬  &nbsp; About me: I like technologies, games - (user: gkiane - PSN 🎮), songs and watch series on Netflix;
